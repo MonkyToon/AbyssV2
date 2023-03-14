@@ -1,5 +1,5 @@
 # Abyss Version 2
-This current repo is linked at https://github.com/Abyss-Service/Deployable/
+This current repo is linked at https://github.com/Abyss-Services/Deployable/
 
 ## Running
 The default port is port 3000. You may change the port in the .env file.
