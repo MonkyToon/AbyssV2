@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^1.2.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "type": "module"
+}
