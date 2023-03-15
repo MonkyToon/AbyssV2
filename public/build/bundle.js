@@ -408,6 +408,4 @@ var app = function() {
         target: document.body
     })
 }();
-return [r, o, c, i, u, a, s, l, () => {
-    document.querySelector("#settingsbutton").click(), go('discord.gg/goabyss');
-},]
+
