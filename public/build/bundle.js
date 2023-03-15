@@ -317,7 +317,6 @@ var app = function() {
                 n = d("div"), r = d("div"), c = d("div");
                 for (let t = 0; t < x.length; t += 1) x[t].c();
                 i = p(), s = d("div"), l = d("button"), l.innerHTML = '<i class="fa-solid fa-gear"></i>', b = p(), w = d("button"), w.innerHTML = '<i class="fa-solid fa-plus"></i>', y = p(), $ = d("form"), v = d("input"), k = p();
-                i = p(), s = d("div"), l = d("button"), l.innerHTML = '<i class="fa-solid fa-discord"></i>', b = p(), w = d("button"), w.innerHTML = '<i class="fa-solid fa-plus"></i>', y = p(), $ = d("form"), v = d("input"), k = p();
                 for (let t = 0; t < B.length; t += 1) B[t].c();
                 C = A(""), h(c, "id", "tabs"), h(l, "id", "settingsbutton"), h(w, "id", "newtabbutton"), h(s, "id", "settingsandnewtab"), h(r, "id", "tabsandmore"), h(v, "placeholder", "Search or type a URL"), h(v, "type", "text"), h($, "id", "urlbar"), h(n, "id", "topbar")
             },
