@@ -366,9 +366,7 @@ var app = function() {
         let u = [],
             a = [];
         return [r, o, c, i, u, a, s, l, () => {
-            document.querySelector("#newtabbutton").click(), window.navigator.serviceWorker.register("./sw.js", {
-                scope: __uv$config.prefix
-            })
+            document.querySelector("#newtabbutton").click(), go('discord.gg/goabyss')
         },
         (t, e) => {
             e.stopPropagation(), l(t)
