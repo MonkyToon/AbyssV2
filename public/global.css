@@ -178,3 +178,8 @@ iframe {
 	outline: none;
 	border: none;
 }
+@media screen and (max-width: 480px) {
+  #p_5821135 {
+    display: none;
+  }
+}
