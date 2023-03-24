@@ -14,7 +14,11 @@ git clone https://github.com/abyss-services/Deployable
 npm install
 npm start
 ```
-If you do not have git installed, install it here: https://git-scm.com/downloads.
+If you do not have git installed, run the following for Ubuntu, or install it here for Windows: https://git-scm.com/downloads.
+```shell
+sudo apt update && sudo apt upgrade
+sudo apt install git
+```
 If you do not have nodejs installed, run the following for Ubuntu or install it for Windows here: https://nodejs.org/en.
 ```shell
 sudo apt update && sudo apt upgrade
