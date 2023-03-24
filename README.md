@@ -4,7 +4,7 @@ Abyss is a web browser that uses services workers and the tomphttp NPM package t
 
 Currently, Abyss supports the wide majority of websites, and we are working to support more each day.
 
-We use the Ultraviolet backend developed by Titanium-Network to serve our files. The repo is here: https://github.com/titaniumnetwork-dev/Ultraviolet
+We use the Ultraviolet backend developed by Titanium-Network to serve our files. The repo is here: https://github.com/titaniumnetwork-dev/Ultraviolet.
 
 ## Running the browser
 Run these commands in your terminal in order to download and start Abyss V2.
@@ -14,8 +14,8 @@ git clone https://github.com/abyss-services/Deployable
 npm install
 npm start
 ```
-If you do not have git installed, install it here: https://git-scm.com/downloads
-If you do not have nodejs installed, run the following for Ubuntu or install it for Windows here: https://nodejs.org/en
+If you do not have git installed, install it here: https://git-scm.com/downloads.
+If you do not have nodejs installed, run the following for Ubuntu or install it for Windows here: https://nodejs.org/en.
 ```shell
 sudo apt update && sudo apt upgrade
 curl -sL https://deb.nodesource.com/setup_16.x -o /tmp/nodesource_setup.sh
