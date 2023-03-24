@@ -25,6 +25,6 @@ npm start
 
 ## License
 
-GNU Affero General Public License v3.0
+GNU Affero General Public License v3.0.
 
-Read the license before modifying the proxy.
+Read the license before modifying the browser.
