@@ -7,7 +7,8 @@ The default port is port 3000. You may change the port by following the directio
 Ubuntu Directions:
 ```shell
 cp .env.example .env
-nano .env```
+nano .env
+```
 Edit the port there, then use Ctrl+S to save the file.
 
 Windows Directions:
