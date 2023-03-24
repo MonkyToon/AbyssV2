@@ -15,7 +15,7 @@ Windows Directions:
 Rename .env.example to .env
 Edit the port in the .env file.
 
-## Starting the browser.
+## Starting the browser
 Run these commands in your terminal in order to start Abyss V2.
 
 ```shell
