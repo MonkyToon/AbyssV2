@@ -1,5 +1,7 @@
 # Abyss V2
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/0RVHVb)
+
 Abyss is a web browser that uses services workers and the tomphttp NPM package to serve html files. Our frontend consists of svelte files to reduce loading times.
 
 Currently, Abyss supports the wide majority of websites, and we are working to support more each day.
