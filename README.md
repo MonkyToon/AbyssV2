@@ -17,8 +17,8 @@ Currently, Abyss supports the wide majority of websites, and we are working to s
 We use the Ultraviolet backend developed by Titanium-Network to serve our files. The repo is here: https://github.com/titaniumnetwork-dev/Ultraviolet.
 
 ## Running the browser
-Run these commands in your terminal in order to download and start Abyss V2.
-Ubuntu (alternatively run the start.sh file)
+Run these commands in your terminal in order to download and start Abyss V2.                            
+Ubuntu (alternatively run the start.sh file):
 ```shell
 git clone https://github.com/abyss-services/Deployable
 npm install
