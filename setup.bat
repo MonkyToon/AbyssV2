@@ -1,9 +1,9 @@
-npm install
-rmdir frontend /s /q
-rmdir public /s /q
-git clone https://github.com/Abyss-Services/frontend
-cd frontend
-npm install
-npm run build
-move ./public ../public
-cd ..
+CALL npm install
+CALL rmdir frontend /s /q 
+CALL rmdir public /s /q 
+CALL git clone https://github.com/Abyss-Services/frontend 
+CALL cd frontend 
+CALL npm install 
+CALL npm run build 
+CALL move ./public ../public 
+CALL cd .. 
