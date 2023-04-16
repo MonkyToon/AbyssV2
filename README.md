@@ -26,15 +26,10 @@ chmod +x setup.sh
 npm start
 ```
 Windows:
-```shell
-git clone https://github.com/abyss-services/Deployable
-npm install
-git clone https://github.com/Abyss-Services/frontend
-cd frontend
-npm install
-npm run build
-copy -r ./public ../public
-cd ..
+```
+git clone https://github.com/Abyss-Services/Deployable
+cd Deployable
+setup.bat
 npm start
 ```
 If you do not have git installed, run the following for Ubuntu, or install it here for Windows: https://git-scm.com/downloads.
