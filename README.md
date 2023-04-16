@@ -18,16 +18,11 @@ We use the Ultraviolet backend developed by Titanium-Network to serve our files.
 
 ## Running the browser
 Run these commands in your terminal in order to download and start Abyss V2.                            
-Ubuntu (alternatively run the start.sh file):
-```shell
-git clone https://github.com/abyss-services/Deployable
-npm install
-git clone https://github.com/Abyss-Services/frontend
-cd frontend
-npm install
-npm run build
-cp -r ./public ../public
-cd ..
+Ubuntu:
+```git clone https://github.com/Abyss-Services/Deployable
+cd Deployable
+chmod +x setup.sh
+./setup.sh
 npm start
 ```
 Windows:
