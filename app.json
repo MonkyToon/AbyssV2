@@ -1,0 +1,7 @@
+{
+  "name": "Abyss Deployable V2",
+  "description": "Node.js Abyss Instance",
+  "repository": "https://github.com/Abyss-Services/Deployable",
+  "logo": "https://raw.githubusercontent.com/Abyss-Services/frontend/main/public/favicon.ico",
+  "keywords": ["tomp", "abyss"]
+}
