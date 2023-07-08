@@ -1,6 +1,6 @@
 ABYSS DEVS ONLY. UBUNTU ONLY.
 ```
-git clone https://github.com/Abyss-Services/Deployable -b losangeles1
+git clone https://github.com/Abyss-Services/Deployable -b miami2
 cd Deployable
 chmod +x setup.sh
 ./setup.sh
